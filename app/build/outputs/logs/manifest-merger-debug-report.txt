@@ -1,0 +1,392 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.camera:camera-video:1.3.0] /home/murat/.gradle/caches/transforms-3/40db85c18346f9673144d58d703607ae/transformed/camera-video-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-view:1.3.0] /home/murat/.gradle/caches/transforms-3/aa0d8be5784d6e3f3941d3059a3fadef/transformed/camera-view-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.0] /home/murat/.gradle/caches/transforms-3/1bd66d28f730b6bf3b1c1b07739c15f1/transformed/camera-lifecycle-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/murat/.gradle/caches/transforms-3/4fb4093818f9863bb2c1f7fb45625f02/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/murat/.gradle/caches/transforms-3/fb2662ef6b90549c2845660233980de4/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/murat/.gradle/caches/transforms-3/8bb850fc351cb3e602d0208712bab24e/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /home/murat/.gradle/caches/transforms-3/bd2520b97903aea158de80487f322139/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/murat/.gradle/caches/transforms-3/e941b01fde22fdff89b30af19d350aae/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/murat/.gradle/caches/transforms-3/3af1c3c173e6420c6562334f546562aa/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/murat/.gradle/caches/transforms-3/4ee5c74566eb68002a24431dd74a2cfa/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/murat/.gradle/caches/transforms-3/f8f8e7992511073ca5292378ea5bd88e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/murat/.gradle/caches/transforms-3/91c2babb8ad7ec5963602e0839e7e97c/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/murat/.gradle/caches/transforms-3/500766e79ad040e96a8c6ec6afac8a4b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/murat/.gradle/caches/transforms-3/06715fd874cd9812eceab5de0c10c233/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/murat/.gradle/caches/transforms-3/b32a1958faa0268f872a3ca4a69a0815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/murat/.gradle/caches/transforms-3/269866e44f1679704c05a22004bd96f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/murat/.gradle/caches/transforms-3/78db6909d82b12371cea03b28eb45213/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/638257587adef7c24ef9d6e823733a27/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/3cde79cce6549e08c3b243e214256bd1/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/murat/.gradle/caches/transforms-3/caea25d1cf2227c2ef123b9fc43f6e3f/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/8ecb7be26c665b2c5498da1974060b75/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/murat/.gradle/caches/transforms-3/b0822b3b0f4e9485d3866f2d661683d3/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/593f95797f17bb4dea94ed0aad91af02/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/murat/.gradle/caches/transforms-3/a5edbb3c66363df3d8485bd6adbdcdd5/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/murat/.gradle/caches/transforms-3/7e3a04ffa8b2367d9d7cf4adc82d17c8/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/murat/.gradle/caches/transforms-3/01ce3a263e3f3787c401408cda574dd3/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/murat/.gradle/caches/transforms-3/30755a666a54ebbf5f56dc0331b8fc27/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/murat/.gradle/caches/transforms-3/f239faf502cad307d674eb9438dd6cc0/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/murat/.gradle/caches/transforms-3/56481ae1e8197df2c143fbc82f7518f5/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/murat/.gradle/caches/transforms-3/d8c23ae62514d126668047c47706591f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/803160c04cb3779c01c93e52e12738b1/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/murat/.gradle/caches/transforms-3/aa17826a1efedf74a38a1302d265141d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/d7343b270bab0cb8a9fc584b9c2dbb07/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/murat/.gradle/caches/transforms-3/5cc4fd7bc44674266a738e5ebb966f5c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/murat/.gradle/caches/transforms-3/13c7aa4412f57883c435d4ffea80fc4f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/murat/.gradle/caches/transforms-3/dd5bf7646a22a18020a2053e33d32a88/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/murat/.gradle/caches/transforms-3/06c7ac21f2ec2667826c3884ae78d031/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/a0deec19768cbe850a85da7400e9eea2/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/murat/.gradle/caches/transforms-3/eaf4098f7f2e5a321bd276b2ce870aa2/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/murat/.gradle/caches/transforms-3/9eb8d1f995e3c0d1c6152053a5ab6ea0/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/murat/.gradle/caches/transforms-3/48c8c9d42d73414a20ccbe84216abbbd/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/murat/.gradle/caches/transforms-3/de71cc20b5a72c1cf0c23f8f986c19e3/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/murat/.gradle/caches/transforms-3/9d1cf0edca6037cdb45f6d9642d2e143/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/murat/.gradle/caches/transforms-3/09cda1c8015ca12231139dbb72aa9403/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/murat/.gradle/caches/transforms-3/ef1b08f9547a2a66f06e0a5cfa56fe8d/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/murat/.gradle/caches/transforms-3/935ca2afead505062205016701139742/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/murat/.gradle/caches/transforms-3/e44061604b05eec77adf483bffd85fb0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/murat/.gradle/caches/transforms-3/12475cd6bf7434a6c4c39d74bc0304a8/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/murat/.gradle/caches/transforms-3/ee63aad40962667e9ebfadbe25b1116c/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/murat/.gradle/caches/transforms-3/85968db88edcf3bb1a8ca9d1d120de35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/murat/.gradle/caches/transforms-3/d83189a816d932a46931c06bc672e412/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/murat/.gradle/caches/transforms-3/06c0de05be1d7b07fa7c8604eba58308/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:6:22-62
+application
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:8:5-36:19
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/murat/.gradle/caches/transforms-3/e44061604b05eec77adf483bffd85fb0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/murat/.gradle/caches/transforms-3/e44061604b05eec77adf483bffd85fb0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:17:9-51
+	android:dataExtractionRules
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:9:9-28
+activity#com.ipcamerasuite.MainActivity
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:25:27-74
+receiver#com.ipcamerasuite.CommandReceiver
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:exported
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:30:13-44
+intent-filter#action:name:com.ipcamerasuite.COMMAND
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:32:13-34:29
+action#com.ipcamerasuite.COMMAND
+ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml:33:25-65
+uses-sdk
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+MERGED from [androidx.camera:camera-video:1.3.0] /home/murat/.gradle/caches/transforms-3/40db85c18346f9673144d58d703607ae/transformed/camera-video-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.0] /home/murat/.gradle/caches/transforms-3/40db85c18346f9673144d58d703607ae/transformed/camera-video-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.0] /home/murat/.gradle/caches/transforms-3/aa0d8be5784d6e3f3941d3059a3fadef/transformed/camera-view-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.0] /home/murat/.gradle/caches/transforms-3/aa0d8be5784d6e3f3941d3059a3fadef/transformed/camera-view-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.0] /home/murat/.gradle/caches/transforms-3/1bd66d28f730b6bf3b1c1b07739c15f1/transformed/camera-lifecycle-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.0] /home/murat/.gradle/caches/transforms-3/1bd66d28f730b6bf3b1c1b07739c15f1/transformed/camera-lifecycle-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/murat/.gradle/caches/transforms-3/4fb4093818f9863bb2c1f7fb45625f02/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.2.1] /home/murat/.gradle/caches/transforms-3/4fb4093818f9863bb2c1f7fb45625f02/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/murat/.gradle/caches/transforms-3/fb2662ef6b90549c2845660233980de4/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/murat/.gradle/caches/transforms-3/fb2662ef6b90549c2845660233980de4/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/murat/.gradle/caches/transforms-3/8bb850fc351cb3e602d0208712bab24e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/murat/.gradle/caches/transforms-3/8bb850fc351cb3e602d0208712bab24e/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /home/murat/.gradle/caches/transforms-3/bd2520b97903aea158de80487f322139/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /home/murat/.gradle/caches/transforms-3/bd2520b97903aea158de80487f322139/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/murat/.gradle/caches/transforms-3/e941b01fde22fdff89b30af19d350aae/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/murat/.gradle/caches/transforms-3/e941b01fde22fdff89b30af19d350aae/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.0] /home/murat/.gradle/caches/transforms-3/3af1c3c173e6420c6562334f546562aa/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/murat/.gradle/caches/transforms-3/3af1c3c173e6420c6562334f546562aa/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/murat/.gradle/caches/transforms-3/4ee5c74566eb68002a24431dd74a2cfa/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/murat/.gradle/caches/transforms-3/4ee5c74566eb68002a24431dd74a2cfa/transformed/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/murat/.gradle/caches/transforms-3/f8f8e7992511073ca5292378ea5bd88e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/murat/.gradle/caches/transforms-3/f8f8e7992511073ca5292378ea5bd88e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /home/murat/.gradle/caches/transforms-3/91c2babb8ad7ec5963602e0839e7e97c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/murat/.gradle/caches/transforms-3/91c2babb8ad7ec5963602e0839e7e97c/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/murat/.gradle/caches/transforms-3/500766e79ad040e96a8c6ec6afac8a4b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/murat/.gradle/caches/transforms-3/500766e79ad040e96a8c6ec6afac8a4b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/murat/.gradle/caches/transforms-3/06715fd874cd9812eceab5de0c10c233/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/murat/.gradle/caches/transforms-3/06715fd874cd9812eceab5de0c10c233/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/murat/.gradle/caches/transforms-3/b32a1958faa0268f872a3ca4a69a0815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/murat/.gradle/caches/transforms-3/b32a1958faa0268f872a3ca4a69a0815/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/murat/.gradle/caches/transforms-3/269866e44f1679704c05a22004bd96f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/murat/.gradle/caches/transforms-3/269866e44f1679704c05a22004bd96f5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/murat/.gradle/caches/transforms-3/78db6909d82b12371cea03b28eb45213/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/murat/.gradle/caches/transforms-3/78db6909d82b12371cea03b28eb45213/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/638257587adef7c24ef9d6e823733a27/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/638257587adef7c24ef9d6e823733a27/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/3cde79cce6549e08c3b243e214256bd1/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.8] /home/murat/.gradle/caches/transforms-3/3cde79cce6549e08c3b243e214256bd1/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/murat/.gradle/caches/transforms-3/caea25d1cf2227c2ef123b9fc43f6e3f/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.6.8] /home/murat/.gradle/caches/transforms-3/caea25d1cf2227c2ef123b9fc43f6e3f/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/8ecb7be26c665b2c5498da1974060b75/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/8ecb7be26c665b2c5498da1974060b75/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/murat/.gradle/caches/transforms-3/b0822b3b0f4e9485d3866f2d661683d3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.8] /home/murat/.gradle/caches/transforms-3/b0822b3b0f4e9485d3866f2d661683d3/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/593f95797f17bb4dea94ed0aad91af02/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.8] /home/murat/.gradle/caches/transforms-3/593f95797f17bb4dea94ed0aad91af02/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/murat/.gradle/caches/transforms-3/a5edbb3c66363df3d8485bd6adbdcdd5/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.8] /home/murat/.gradle/caches/transforms-3/a5edbb3c66363df3d8485bd6adbdcdd5/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/murat/.gradle/caches/transforms-3/7e3a04ffa8b2367d9d7cf4adc82d17c8/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.8] /home/murat/.gradle/caches/transforms-3/7e3a04ffa8b2367d9d7cf4adc82d17c8/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/murat/.gradle/caches/transforms-3/01ce3a263e3f3787c401408cda574dd3/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.8] /home/murat/.gradle/caches/transforms-3/01ce3a263e3f3787c401408cda574dd3/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/murat/.gradle/caches/transforms-3/30755a666a54ebbf5f56dc0331b8fc27/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.8] /home/murat/.gradle/caches/transforms-3/30755a666a54ebbf5f56dc0331b8fc27/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/murat/.gradle/caches/transforms-3/f239faf502cad307d674eb9438dd6cc0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.8] /home/murat/.gradle/caches/transforms-3/f239faf502cad307d674eb9438dd6cc0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/murat/.gradle/caches/transforms-3/56481ae1e8197df2c143fbc82f7518f5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.8] /home/murat/.gradle/caches/transforms-3/56481ae1e8197df2c143fbc82f7518f5/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/murat/.gradle/caches/transforms-3/d8c23ae62514d126668047c47706591f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /home/murat/.gradle/caches/transforms-3/d8c23ae62514d126668047c47706591f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/803160c04cb3779c01c93e52e12738b1/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/803160c04cb3779c01c93e52e12738b1/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/murat/.gradle/caches/transforms-3/aa17826a1efedf74a38a1302d265141d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /home/murat/.gradle/caches/transforms-3/aa17826a1efedf74a38a1302d265141d/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/d7343b270bab0cb8a9fc584b9c2dbb07/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/d7343b270bab0cb8a9fc584b9c2dbb07/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/murat/.gradle/caches/transforms-3/5cc4fd7bc44674266a738e5ebb966f5c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /home/murat/.gradle/caches/transforms-3/5cc4fd7bc44674266a738e5ebb966f5c/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/murat/.gradle/caches/transforms-3/13c7aa4412f57883c435d4ffea80fc4f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/murat/.gradle/caches/transforms-3/13c7aa4412f57883c435d4ffea80fc4f/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/murat/.gradle/caches/transforms-3/dd5bf7646a22a18020a2053e33d32a88/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/murat/.gradle/caches/transforms-3/dd5bf7646a22a18020a2053e33d32a88/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/murat/.gradle/caches/transforms-3/06c7ac21f2ec2667826c3884ae78d031/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /home/murat/.gradle/caches/transforms-3/06c7ac21f2ec2667826c3884ae78d031/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/a0deec19768cbe850a85da7400e9eea2/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /home/murat/.gradle/caches/transforms-3/a0deec19768cbe850a85da7400e9eea2/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/murat/.gradle/caches/transforms-3/eaf4098f7f2e5a321bd276b2ce870aa2/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /home/murat/.gradle/caches/transforms-3/eaf4098f7f2e5a321bd276b2ce870aa2/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/murat/.gradle/caches/transforms-3/9eb8d1f995e3c0d1c6152053a5ab6ea0/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /home/murat/.gradle/caches/transforms-3/9eb8d1f995e3c0d1c6152053a5ab6ea0/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/murat/.gradle/caches/transforms-3/48c8c9d42d73414a20ccbe84216abbbd/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.8] /home/murat/.gradle/caches/transforms-3/48c8c9d42d73414a20ccbe84216abbbd/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/murat/.gradle/caches/transforms-3/de71cc20b5a72c1cf0c23f8f986c19e3/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /home/murat/.gradle/caches/transforms-3/de71cc20b5a72c1cf0c23f8f986c19e3/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/murat/.gradle/caches/transforms-3/9d1cf0edca6037cdb45f6d9642d2e143/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /home/murat/.gradle/caches/transforms-3/9d1cf0edca6037cdb45f6d9642d2e143/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/murat/.gradle/caches/transforms-3/09cda1c8015ca12231139dbb72aa9403/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.8] /home/murat/.gradle/caches/transforms-3/09cda1c8015ca12231139dbb72aa9403/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/murat/.gradle/caches/transforms-3/ef1b08f9547a2a66f06e0a5cfa56fe8d/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.8] /home/murat/.gradle/caches/transforms-3/ef1b08f9547a2a66f06e0a5cfa56fe8d/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/murat/.gradle/caches/transforms-3/935ca2afead505062205016701139742/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/murat/.gradle/caches/transforms-3/935ca2afead505062205016701139742/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/murat/.gradle/caches/transforms-3/e44061604b05eec77adf483bffd85fb0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/murat/.gradle/caches/transforms-3/e44061604b05eec77adf483bffd85fb0/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/murat/.gradle/caches/transforms-3/12475cd6bf7434a6c4c39d74bc0304a8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/murat/.gradle/caches/transforms-3/12475cd6bf7434a6c4c39d74bc0304a8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/murat/.gradle/caches/transforms-3/ee63aad40962667e9ebfadbe25b1116c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/murat/.gradle/caches/transforms-3/ee63aad40962667e9ebfadbe25b1116c/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/murat/.gradle/caches/transforms-3/85968db88edcf3bb1a8ca9d1d120de35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/murat/.gradle/caches/transforms-3/85968db88edcf3bb1a8ca9d1d120de35/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/murat/.gradle/caches/transforms-3/d83189a816d932a46931c06bc672e412/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/murat/.gradle/caches/transforms-3/d83189a816d932a46931c06bc672e412/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/murat/.gradle/caches/transforms-3/06c0de05be1d7b07fa7c8604eba58308/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/murat/.gradle/caches/transforms-3/06c0de05be1d7b07fa7c8604eba58308/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/murat/Documents/IPCameraSuite/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.0] /home/murat/.gradle/caches/transforms-3/58eb239aa02ed7c57d504904273f0eef/transformed/camera-core-1.3.0/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.0] /home/murat/.gradle/caches/transforms-3/2f7c2f3ecc4ff746f6bc4c755d0f778f/transformed/camera-camera2-1.3.0/AndroidManifest.xml:31:17-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/murat/.gradle/caches/transforms-3/bd50c3342304ece3fc0f4987dbf8e037/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/murat/.gradle/caches/transforms-3/717f9dc071b78a0adec328cdd5ebdb1e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.ipcamerasuite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ipcamerasuite.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/murat/.gradle/caches/transforms-3/2734121a8ee792958606d7bf0b1f24f5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /home/murat/.gradle/caches/transforms-3/4c2924f70e8c04987f83fcfd1bb151d3/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/murat/.gradle/caches/transforms-3/53e5439126cfd03d1d0ad7a58a0140ed/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

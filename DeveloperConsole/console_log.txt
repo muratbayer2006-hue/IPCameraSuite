@@ -1,0 +1,2147 @@
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+>>> Canlı loglar başlatılıyor (Ctrl+C ile durdur)...
+[19:23:08] --------- beginning of main
+[19:23:09] --------- beginning of system
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+>>> Canlı loglar başlatılıyor (Ctrl+C ile durdur)...
+[19:25:08] --------- beginning of main
+[19:25:09] --------- beginning of system
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+❌ Komut gönderilemedi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+✅ Komut gönderildi: stop_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+>>> Canlı loglar başlatılıyor (Ctrl+C ile durdur)...
+[20:00:03] --------- beginning of main
+[20:00:05] --------- beginning of system
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: stop_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: switch_camera
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: switch_camera
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: zoom_in
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: zoom_in
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+✅ Komut gönderildi: zoom_in
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+Geçersiz seçim!
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+═══════════════════════════════════════════
+Güle güle!
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+📄 En son log dosyası: ipcamera_20260804_200718.log
+✅ Log dosyası kaydedildi: /home/murat/Documents/ipcamera_20260804_200718.log
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları temizleniyor...
+✅ Log dosyaları temizlendi.
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+📄 En son log dosyası: ipcamera_20260804_200718.log
+✅ Log dosyası kaydedildi: /home/murat/Documents/ipcamera_20260804_200718.log
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+📄 En son log dosyası: ipcamera_20260804_200718.log
+✅ Log dosyası kaydedildi: /home/murat/Documents/ipcamera_20260804_200718.log
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları temizleniyor...
+✅ Log dosyaları temizlendi ve klasör yeniden oluşturuldu.
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+❌ Log dosyası bulunamadı!
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+📄 En son log dosyası: ipcamera_20260804_200718.log
+✅ Log dosyası kaydedildi: /home/murat/Documents/ipcamera_20260804_200718.log
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: start_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: stop_stream
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+✅ Komut gönderildi: toggle_analysis
+═══════════════════════════════════════════
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+═══════════════════════════════════════════
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://8081:8081
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): start_stream
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): stop_stream
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): toggle_analysis
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+🔗 WebSocket bağlantısı kuruldu
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): start_stream
+📡 Yayın başladı: http://192.168.1.104:8080/stream.mjpg
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+✅ Komut gönderildi (WebSocket): stop_stream
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+⏹ Yayın durduruldu
+🔬 Analiz durduruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): toggle_analysis
+🔌 WebSocket bağlantısı kapatıldı
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (ADB): start_stream
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (ADB): stop_stream
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+✅ Komut gönderildi (ADB): toggle_analysis
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+❌ WebSocket bağlantısı başarısız: [Errno 111] Connect call failed ('192.168.1.104', 8081)
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+❌ WebSocket bağlantısı başarısız: [Errno 111] Connect call failed ('192.168.1.104', 8081)
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+✅ Komut gönderildi (WebSocket): start_stream
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+✅ Komut gönderildi (WebSocket): stop_stream
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+✅ Komut gönderildi (WebSocket): toggle_analysis
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+Güle güle!
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+>>> Canlı loglar başlatılıyor (Ctrl+C ile durdur)...
+[21:24:18] --------- beginning of main
+[21:24:20] --------- beginning of system
+[21:24:21] 08-04 21:24:35.119 24237 24237 D IPCameraSuite: [2026-08-04 21:24:35.117] [SUC] [MJPEGServer] Sunucu başlatıldı, port: 8080
+[21:24:21] 08-04 21:24:35.124 24237 24237 D IPCameraSuite: [2026-08-04 21:24:35.122] [SUC] [CameraRepository] MJPEG sunucusu başlatıldı, port: 8080
+[21:24:21] 08-04 21:24:35.135 24237 24237 D IPCameraSuite: [2026-08-04 21:24:35.132] [SUC] [CameraViewModel] Stream başlatıldı: http://192.168.1.104:8080/stream.mjpg
+[21:24:21] 08-04 21:24:35.275 24237 24237 D IPCameraSuite: [2026-08-04 21:24:35.273] [SUC] [ImageAnalysis] Analiz başlatıldı
+[21:24:23] 08-04 21:24:37.313 24237 24237 D IPCameraSuite: [2026-08-04 21:24:37.311] [SUC] [MJPEGServer] Sunucu durduruldu
+[21:24:23] 08-04 21:24:37.318 24237 24237 D IPCameraSuite: [2026-08-04 21:24:37.315] [SUC] [CameraRepository] Stream durduruldu
+[21:24:23] 08-04 21:24:37.322 24237 24237 D IPCameraSuite: [2026-08-04 21:24:37.319] [INF] [CameraViewModel] Stream durduruldu
+[21:24:26] 08-04 21:24:39.678 24237 24237 D IPCameraSuite: [2026-08-04 21:24:39.676] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:26] 08-04 21:24:39.684 24237 24237 D IPCameraSuite: [2026-08-04 21:24:39.682] [INF] [CameraViewModel] Zoom: 1,1x
+[21:24:26] 08-04 21:24:39.772 24237 24237 D IPCameraSuite: [2026-08-04 21:24:39.770] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:28] 08-04 21:24:41.591 24237 24237 D IPCameraSuite: [2026-08-04 21:24:41.588] [INF] [CameraRepository] Zoom ayarlandı: 1,2x
+[21:24:28] 08-04 21:24:41.596 24237 24237 D IPCameraSuite: [2026-08-04 21:24:41.594] [INF] [CameraViewModel] Zoom: 1,2x
+[21:24:28] 08-04 21:24:41.699 24237 24237 D IPCameraSuite: [2026-08-04 21:24:41.697] [INF] [CameraRepository] Zoom ayarlandı: 1,2x
+[21:24:29] 08-04 21:24:42.883 24237 24237 D IPCameraSuite: [2026-08-04 21:24:42.881] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:29] 08-04 21:24:42.888 24237 24237 D IPCameraSuite: [2026-08-04 21:24:42.886] [INF] [CameraViewModel] Zoom: 1,1x
+[21:24:29] 08-04 21:24:42.962 24237 24237 D IPCameraSuite: [2026-08-04 21:24:42.961] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:30] 08-04 21:24:43.703 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.701] [CAM] [CameraViewModel] Ön kameraya geçildi
+[21:24:30] 08-04 21:24:43.782 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.780] [SUC] [ImageAnalysis] Analiz durduruldu
+[21:24:30] 08-04 21:24:43.784 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.783] [SYS] [CameraRepository] Kamera serbest bırakıldı
+[21:24:30] 08-04 21:24:43.788 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.786] [SYS] [CameraPreview] Kamera serbest bırakıldı
+[21:24:30] 08-04 21:24:43.845 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.843] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:30] 08-04 21:24:43.928 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.926] [INF] [CameraViewModel] Kamera hazır, max zoom: 4,0x
+[21:24:30] 08-04 21:24:43.933 24237 24237 D IPCameraSuite: [2026-08-04 21:24:43.931] [CAM] [CameraRepository] Kamera başlatıldı, max zoom: 4,0x
+[21:24:37] 08-04 21:24:50.897 24237 24237 D IPCameraSuite: [2026-08-04 21:24:50.894] [CAM] [CameraViewModel] Arka kameraya geçildi
+[21:24:37] 08-04 21:24:50.979 24237 24237 D IPCameraSuite: [2026-08-04 21:24:50.978] [SYS] [CameraRepository] Kamera serbest bırakıldı
+[21:24:37] 08-04 21:24:50.983 24237 24237 D IPCameraSuite: [2026-08-04 21:24:50.981] [SYS] [CameraPreview] Kamera serbest bırakıldı
+[21:24:37] 08-04 21:24:51.061 24237 24237 D IPCameraSuite: [2026-08-04 21:24:51.058] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:37] 08-04 21:24:51.193 24237 24237 D IPCameraSuite: [2026-08-04 21:24:51.192] [INF] [CameraViewModel] Kamera hazır, max zoom: 5,0x
+[21:24:37] 08-04 21:24:51.196 24237 24237 D IPCameraSuite: [2026-08-04 21:24:51.195] [CAM] [CameraRepository] Kamera başlatıldı, max zoom: 5,0x
+[21:24:44] 08-04 21:24:58.410 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.407] [CAM] [CameraViewModel] Ön kameraya geçildi
+[21:24:45] 08-04 21:24:58.481 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.479] [SYS] [CameraRepository] Kamera serbest bırakıldı
+[21:24:45] 08-04 21:24:58.484 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.482] [SYS] [CameraPreview] Kamera serbest bırakıldı
+[21:24:45] 08-04 21:24:58.533 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.531] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:45] 08-04 21:24:58.636 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.634] [INF] [CameraViewModel] Kamera hazır, max zoom: 4,0x
+[21:24:45] 08-04 21:24:58.640 24237 24237 D IPCameraSuite: [2026-08-04 21:24:58.639] [CAM] [CameraRepository] Kamera başlatıldı, max zoom: 4,0x
+[21:24:47] 08-04 21:25:01.361 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.359] [CAM] [CameraViewModel] Arka kameraya geçildi
+[21:24:47] 08-04 21:25:01.434 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.432] [SYS] [CameraRepository] Kamera serbest bırakıldı
+[21:24:47] 08-04 21:25:01.438 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.436] [SYS] [CameraPreview] Kamera serbest bırakıldı
+[21:24:48] 08-04 21:25:01.487 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.485] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:48] 08-04 21:25:01.577 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.576] [INF] [CameraViewModel] Kamera hazır, max zoom: 5,0x
+[21:24:48] 08-04 21:25:01.582 24237 24237 D IPCameraSuite: [2026-08-04 21:25:01.580] [CAM] [CameraRepository] Kamera başlatıldı, max zoom: 5,0x
+[21:24:57] 08-04 21:25:10.905 24237 24237 D IPCameraSuite: [2026-08-04 21:25:10.902] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:57] 08-04 21:25:10.910 24237 24237 D IPCameraSuite: [2026-08-04 21:25:10.908] [INF] [CameraViewModel] Zoom: 1,1x
+[21:24:57] 08-04 21:25:11.019 24237 24237 D IPCameraSuite: [2026-08-04 21:25:11.017] [INF] [CameraRepository] Zoom ayarlandı: 1,1x
+[21:24:58] 08-04 21:25:12.399 24237 24237 D IPCameraSuite: [2026-08-04 21:25:12.396] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:58] 08-04 21:25:12.404 24237 24237 D IPCameraSuite: [2026-08-04 21:25:12.402] [INF] [CameraViewModel] Zoom: 1,0x
+[21:24:59] 08-04 21:25:12.494 24237 24237 D IPCameraSuite: [2026-08-04 21:25:12.492] [INF] [CameraRepository] Zoom ayarlandı: 1,0x
+[21:24:59] 08-04 21:25:13.285 24237 24237 D IPCameraSuite: [2026-08-04 21:25:13.283] [SUC] [MJPEGServer] Sunucu başlatıldı, port: 8080
+[21:24:59] 08-04 21:25:13.290 24237 24237 D IPCameraSuite: [2026-08-04 21:25:13.288] [SUC] [CameraRepository] MJPEG sunucusu başlatıldı, port: 8080
+[21:24:59] 08-04 21:25:13.301 24237 24237 D IPCameraSuite: [2026-08-04 21:25:13.299] [SUC] [CameraViewModel] Stream başlatıldı: http://192.168.1.104:8080/stream.mjpg
+[21:24:59] 08-04 21:25:13.430 24237 24237 D IPCameraSuite: [2026-08-04 21:25:13.427] [SUC] [ImageAnalysis] Analiz başlatıldı
+[21:25:02] 08-04 21:25:16.252 24237 24237 D IPCameraSuite: [2026-08-04 21:25:16.250] [SUC] [MJPEGServer] Sunucu durduruldu
+[21:25:02] 08-04 21:25:16.256 24237 24237 D IPCameraSuite: [2026-08-04 21:25:16.254] [SUC] [CameraRepository] Stream durduruldu
+[21:25:02] 08-04 21:25:16.260 24237 24237 D IPCameraSuite: [2026-08-04 21:25:16.258] [INF] [CameraViewModel] Stream durduruldu
+[21:25:08] 08-04 21:25:22.303 24237 24237 D IPCameraSuite: [2026-08-04 21:25:22.301] [SUC] [MJPEGServer] Sunucu başlatıldı, port: 8080
+[21:25:08] 08-04 21:25:22.309 24237 24237 D IPCameraSuite: [2026-08-04 21:25:22.307] [SUC] [CameraRepository] MJPEG sunucusu başlatıldı, port: 8080
+[21:25:08] 08-04 21:25:22.317 24237 24237 D IPCameraSuite: [2026-08-04 21:25:22.315] [SUC] [CameraViewModel] Stream başlatıldı: http://192.168.1.104:8080/stream.mjpg
+[21:25:16] 08-04 21:25:30.123 24237 24237 D IPCameraSuite: [2026-08-04 21:25:30.119] [SUC] [MJPEGServer] Sunucu durduruldu
+[21:25:16] 08-04 21:25:30.127 24237 24237 D IPCameraSuite: [2026-08-04 21:25:30.125] [SUC] [CameraRepository] Stream durduruldu
+[21:25:16] 08-04 21:25:30.131 24237 24237 D IPCameraSuite: [2026-08-04 21:25:30.128] [INF] [CameraViewModel] Stream durduruldu
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+❌ WebSocket bağlantısı başarısız: [Errno 111] Connect call failed ('192.168.1.104', 8081)
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_camera
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+✅ Komut gönderildi (WebSocket): test_camera
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+❌ Geçersiz seçim!
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+❌ Geçersiz seçim!
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+
+Çıkış yapılıyor...
+╔══════════════════════════════════════════╗
+║      IPCameraSuite Developer Console     ║
+╚══════════════════════════════════════════╝
+>>> Telefon bağlantısı kontrol ediliyor...
+✅ Telefon bağlı: G6OVPZMRDQNVDIIR
+Device connected: G6OVPZMRDQNVDIIR
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+✅ Komut gönderildi (WebSocket): test_camera
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://adb shel12:8081
+❌ WebSocket bağlantısı başarısız: [Errno -2] Name or service not known
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+✅ Komut gönderildi (WebSocket): test_camera
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+❌ Geçersiz seçim!
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): start_stream
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): stop_stream
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): toggle_analysis
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+✅ Komut gönderildi (WebSocket): test_camera
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+❌ WebSocket bağlantısı başarısız: [Errno 111] Connect call failed ('192.168.1.104', 8081)
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_camera
+🔌 WebSocket bağlantısı kapatıldı
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_camera
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_camera
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> Log dosyaları taranıyor...
+📄 En son log dosyası: ipcamera_20260804_223622.log
+✅ Log dosyası kaydedildi: /home/murat/Documents/ipcamera_20260804_223622.log
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_camera
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+✅ CAMERA Testi BAŞARILI
+   camera_type: BACK
+   max_zoom: 5
+   current_zoom: 1
+   is_camera_ready: True
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_stream
+❌ STREAM Testi BAŞARISIZ: Stream aktif değil
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): test_stream
+✅ STREAM Testi BAŞARILI
+   duration_seconds: 3
+   frames_captured: 46
+   average_fps: 15,3
+🔌 WebSocket bağlantısı kapatıldı
+❌ Geçersiz seçim!
+═══════════════════════════════════════════
+1.  📷 Kamera Testi (test_camera)
+2.  📡 Stream Testi (test_stream)
+3.  🔙 Ana Menü
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔌 ADB
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+>>> WebSocket bağlantısı kuruluyor: ws://192.168.1.104:8081
+✅ WebSocket bağlantısı kuruldu: ws://192.168.1.104:8081
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔗 WebSocket bağlantısı kuruldu
+═══════════════════════════════════════════
+✅ Komut gönderildi (WebSocket): switch_camera
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+═══════════════════════════════════════════
+İletişim Modu: 🔗 WebSocket
+───────────────────────────────────────────
+1.  📋 Bağlantıyı Kontrol Et
+2.  📡 Canlı Logları İzle
+3.  ▶️  Yayını Başlat (start_stream)
+4.  ⏹️  Yayını Durdur (stop_stream)
+✅ Komut gönderildi (WebSocket): switch_camera
+5.  🔄 Kamera Değiştir (switch_camera)
+6.  🔍 Zoom In (zoom_in)
+7.  🔍 Zoom Out (zoom_out)
+8.  🚪 Çıkış
+9.  🔬 Analizi Başlat/Durdur (toggle_analysis)
+10. 📥 Log Dosyasını Çek
+11. 🗑️ Log Dosyalarını Temizle
+12. 🔗 WebSocket'e Bağlan
+13. 🔌 WebSocket Bağlantısını Kapat
+14. 🧪 Test Çalıştır
+═══════════════════════════════════════════
+🔌 WebSocket bağlantısı kapatıldı
